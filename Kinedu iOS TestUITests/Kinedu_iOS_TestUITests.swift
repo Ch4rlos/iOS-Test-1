@@ -5,7 +5,7 @@
 //  Created by Developer on 10/22/19.
 //  Copyright © 2019 Appsodi. All rights reserved.
 //
-
+/*
 import XCTest
 
 class Kinedu_iOS_TestUITests: XCTestCase {
@@ -32,3 +32,4 @@ class Kinedu_iOS_TestUITests: XCTestCase {
     }
 
 }
+*/

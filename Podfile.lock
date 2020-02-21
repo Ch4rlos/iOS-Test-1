@@ -1,0 +1,16 @@
+PODS:
+  - Prestyler (1.1.0)
+
+DEPENDENCIES:
+  - Prestyler
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Prestyler
+
+SPEC CHECKSUMS:
+  Prestyler: 738297750a0e56ba2664197413e5eac4b3ef72c4
+
+PODFILE CHECKSUM: d377b384288e15213c4a56d301e9ea6b8da5e337
+
+COCOAPODS: 1.5.3
